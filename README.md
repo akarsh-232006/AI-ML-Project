@@ -135,9 +135,9 @@ This project fulfills all course requirements:
 
 ## 👨‍💻 Author
 
-**Student Name:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
-**Email:** [Your Email]  
+**Student Name:** [AKARSH SAHU]  
+**Roll Number:** [25SCS1003003506]  
+**Email:** [akarsh.25scs1003003506@iilm.edu]  
 
 ---
 
