@@ -1,8 +1,8 @@
 # AI-Enhanced Wildlife Corridor Identification and Prediction
 ## Project Task: Evaluate Models with ROC Curve
 
-**Student Name:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
+**Student Name:** [Akarsh sahu]  
+**Roll Number:** [25scs1003003506]  
 **Course:** CSE-UCS-1002 - Introduction to AI-ML  
 **Semester:** I  
 **Course Coordinator:** Dr. Saurabh Shanu  
@@ -197,8 +197,8 @@ The project fulfills all course requirements by demonstrating:
 
 ---
 
-**Project Completion Date:** [Current Date]  
-**Total Development Time:** [Your Time]  
+**Project Completion Date:** [10 october 2025]  
+**Total Development Time:** [1 week]  
 **Lines of Code:** 400+ (well-documented)  
 **Generated Visualizations:** 3 comprehensive charts  
 **Documentation Pages:** 8 (detailed report)
