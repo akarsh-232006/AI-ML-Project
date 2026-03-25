@@ -2,7 +2,7 @@
 AI-Enhanced Wildlife Corridor Identification and Prediction
 Project Task: Evaluate models with ROC curve
 
-Student: [Your Name]
+Student: [Akarsh sahu]
 Course: CSE-UCS-1002 - Introduction to AI-ML
 Course Coordinator: Dr. Saurabh Shanu
 
