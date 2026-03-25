@@ -3,8 +3,8 @@
 **Course:** CSE-UCS-1002 - Introduction to AI-ML  
 **Project:** AI-Enhanced Wildlife Corridor Identification and Prediction  
 **Task:** Evaluate models with ROC curve  
-**Student:** [Your Name - Add your details]  
-**Roll Number:** [Your Roll Number - Add your details]  
+**Student:** [Akarsh sahu ]  
+**Roll Number:** [25scs1003003506]  
 **Course Coordinator:** Dr. Saurabh Shanu  
 
 ---
@@ -146,6 +146,6 @@ Wildlife_Corridor_ROC_Project/
 
 ---
 
-**Submission Date:** [Add current date]  
-**Total Development Time:** [Add your time spent]  
+**Submission Date:** [9 november 2025]  
+**Total Development Time:** [ 1 week]  
 **Status:** ✅ COMPLETED - Ready for Evaluation
