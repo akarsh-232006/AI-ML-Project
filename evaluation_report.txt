@@ -1,0 +1,67 @@
+================================================================================
+WILDLIFE CORRIDOR PREDICTION MODEL EVALUATION REPORT
+================================================================================
+
+MODEL PERFORMANCE SUMMARY
+----------------------------------------
+1. Neural Network
+   AUC Score: 0.9258
+   Accuracy: 0.8417
+   Precision: 0.8383
+   Recall: 0.8467
+   F1-Score: 0.8425
+
+2. Support Vector Machine
+   AUC Score: 0.9042
+   Accuracy: 0.8083
+   Precision: 0.7955
+   Recall: 0.8300
+   F1-Score: 0.8124
+
+3. Random Forest
+   AUC Score: 0.8741
+   Accuracy: 0.7833
+   Precision: 0.7623
+   Recall: 0.8233
+   F1-Score: 0.7917
+
+4. Gradient Boosting
+   AUC Score: 0.8383
+   Accuracy: 0.7317
+   Precision: 0.7100
+   Recall: 0.7833
+   F1-Score: 0.7448
+
+5. Logistic Regression
+   AUC Score: 0.7284
+   Accuracy: 0.6717
+   Precision: 0.6678
+   Recall: 0.6833
+   F1-Score: 0.6755
+
+DATASET FEATURES
+----------------------------------------
+ 1. vegetation_density
+ 2. water_proximity
+ 3. human_disturbance
+ 4. elevation_gradient
+ 5. habitat_connectivity
+ 6. species_richness
+ 7. forest_cover_pct
+ 8. road_density
+ 9. protected_area_proximity
+10. climate_suitability
+
+ROC CURVE ANALYSIS
+----------------------------------------
+Best performing model: Neural Network (AUC: 0.9258)
+
+Model Performance Interpretation: Excellent discrimination ability
+
+RECOMMENDATIONS
+----------------------------------------
+1. Deploy the best performing model for wildlife corridor prediction
+2. Consider ensemble methods to combine multiple models
+3. Collect more real-world data to improve model accuracy
+4. Perform feature importance analysis for better insights
+5. Regular model retraining with new data
